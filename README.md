@@ -1,2 +1,13 @@
-# Data2Money 官网
-一个基于 React + Vercel 的投资展示平台。
+# Data2Money
+
+High-frequency strategy & macro dashboard for serious traders.
+
+## Pages
+
+- Home
+- Strategy Performance
+- Macroeconomic Dashboard
+- Disclaimer / Privacy Policy
+
+Design: Black & Gold minimal style.  
+Deploy on: Vercel
