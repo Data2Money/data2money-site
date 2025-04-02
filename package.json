@@ -1,0 +1,6 @@
+{
+  "name": "data2money-site",
+  "version": "1.0.0",
+  "scripts": {"start": "react-scripts start"},
+  "dependencies": {"react": "^18.2.0"}
+}
